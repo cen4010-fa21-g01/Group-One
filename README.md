@@ -22,9 +22,13 @@ In this milestone, you will learn:
 
 ## About Our Team
 
+
+
 **Eli Cohen**
 
 ![image](https://user-images.githubusercontent.com/84582306/131756769-59df2116-d875-4b04-a1f9-76a358785b4d.png)
+
+
 
 ### About Me: 
 
@@ -54,12 +58,9 @@ In this milestone, you will learn:
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-
 **Jose Silverio**
 
-![personalPic](https://user-images.githubusercontent.com/89946272/131758770-a863af56-b93f-4ffb-bc3b-265788cff1ad.jpg)
-
-
+![Personal](https://user-images.githubusercontent.com/89946272/131758260-90ef4b51-c0a0-4b99-8790-d8ccba2c5009.jpg)
 
 
 
@@ -92,9 +93,30 @@ In this milestone, you will learn:
 -----------------------------------------------------------------------------------------------------------------------------
 
 
+**Ryan Smith**
 
+![image]![myphoto](https://user-images.githubusercontent.com/89946101/131758472-b879a49d-6611-474e-aad2-7b1f4bd5b28f.jpg)
 
+### About Me:
+I am currently enrolled at Florida Atlantic University studying to become a Computer Engineer. Growing up while being exposed to all new types of technology allowed me to hone my skills and is what drives me to become a computer engineer. Understanding the basics of circuitry, as well as, being able to understand and write in multiple coding languages are my strongest aspects when working in engineering fields.
 
+### Programming Languages & Tools:
+***
+* Html5
+* CSS
+* JavaScript
+* Python
+* C++
+* Basic Circuitry
+***
+
+### Hobbies:
+***
+* Coding
+* Gaming
+* Eating
+* Sleeping
+***
 
 
 ## Getting Started
