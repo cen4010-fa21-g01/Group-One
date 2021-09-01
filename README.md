@@ -121,10 +121,6 @@ I am currently enrolled at Florida Atlantic University studying to become a Comp
 
 
 ## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Eli Page: [My github](https://github.com/Eli-Code365/Eli-Code365.git)
 
 
