@@ -57,7 +57,9 @@ In this milestone, you will learn:
 
 **Jose Silverio**
 
-![Personal](https://user-images.githubusercontent.com/89946272/131758260-90ef4b51-c0a0-4b99-8790-d8ccba2c5009.jpg)
+![personalPic](https://user-images.githubusercontent.com/89946272/131758770-a863af56-b93f-4ffb-bc3b-265788cff1ad.jpg)
+
+
 
 
 
