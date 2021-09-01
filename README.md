@@ -23,10 +23,10 @@ In this milestone, you will learn:
 ## About Our Team
 
 
+
 **Eli Cohen**
 
-
-![Eli](https://user-images.githubusercontent.com/84582306/131756769-59df2116-d875-4b04-a1f9-76a358785b4d.png)
+![image](https://user-images.githubusercontent.com/84582306/131756769-59df2116-d875-4b04-a1f9-76a358785b4d.png)
 
 
 
@@ -49,7 +49,6 @@ In this milestone, you will learn:
 ***
 
 ### Hobbies
-
 ***
 * Philosophy 
 * Anime
@@ -57,9 +56,43 @@ In this milestone, you will learn:
 * Technology
 ***
 
-
+-----------------------------------------------------------------------------------------------------------------------------
 **Eli Cohen**
 
+**Jose Silverio**
+
+![Personal](https://user-images.githubusercontent.com/89946272/131758260-90ef4b51-c0a0-4b99-8790-d8ccba2c5009.jpg)
+
+
+
+### About Me: 
+
+***Current FAU computer engineering student persuing a career as a Software or Hardware Engineer. I love to learn new things especially in topics of Computer Engineering and Computer Science, I've enjoy learning coding throughout my years in FAU and hope to learn more and more along the way.***
+
+### Education:
+
+***Florida Atlantic University: Bachelor of Computer Engineering***
+
+### Programming Languages:
+***
+* C++
+* Python
+* HTML5/CSS
+* JavaScript
+* Java
+* C#
+***
+
+### Hobbies
+***
+* Boxing 
+* Coding
+* Gaming
+* Technology
+***
+
+-----------------------------------------------------------------------------------------------------------------------------
+**Jose Silverio**
 
 
 
