@@ -22,13 +22,9 @@ In this milestone, you will learn:
 
 ## About Our Team
 
-
-
 **Eli Cohen**
 
 ![image](https://user-images.githubusercontent.com/84582306/131756769-59df2116-d875-4b04-a1f9-76a358785b4d.png)
-
-
 
 ### About Me: 
 
@@ -57,7 +53,7 @@ In this milestone, you will learn:
 ***
 
 -----------------------------------------------------------------------------------------------------------------------------
-**Eli Cohen**
+
 
 **Jose Silverio**
 
@@ -92,7 +88,7 @@ In this milestone, you will learn:
 ***
 
 -----------------------------------------------------------------------------------------------------------------------------
-**Jose Silverio**
+
 
 
 
