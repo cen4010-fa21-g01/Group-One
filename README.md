@@ -123,7 +123,5 @@ I am currently enrolled at Florida Atlantic University studying to become a Comp
 ## Authors
 Eli's [GitHub](https://github.com/Eli-Code365/Eli-Code365.git)
 
-
-
 Ryan's [GitHub](https://github.com/RyanSDevelopment/CEN4010.git)
 
