@@ -121,7 +121,8 @@ In this milestone, you will learn:
 ---------------------------------------------------------------------------------------------------------------------------------
 **Giovanni Gonzalez**
 
-![Profile Picture](https://user-images.githubusercontent.com/89945885/131761093-45b00e58-11a7-4de3-910e-85a55ec6c178.PNG)
+![Profile Picture](https://user-images.githubusercontent.com/89945885/131761142-2ec7fc0b-af5b-4132-934f-e15f80b09e43.PNG)
+
 
 
 
