@@ -118,10 +118,45 @@ I am currently enrolled at Florida Atlantic University studying to become a Comp
 * Eating
 * Sleeping
 ***
+---------------------------------------------------------------------------------------------------------------------------------
+**Giovanni Gonzalez**
+
+![Profile Picture](https://user-images.githubusercontent.com/89945885/131760863-41be6901-ed7f-4a57-adf7-873f81bf18df.PNG)
 
 
+### About Me: 
+
+***Aspiring Software Engineer with a deep passion for coding.
+Looking to accumulate professional experience in an entry-level programming job or internship.
+I get along quite well with peers, specially those who share my same interests.***
+
+### Education:
+
+***Florida Atlantic University: Bachelor of Computer Science***
+
+### Programming Languages:
+***
+* C++
+* HTML5
+* Assembly
+* Python
+* Javascript
+* CSS
+***
+
+### Hobbies
+***
+* Gaming
+* Reading
+* Exercise
+***
+
+-----------------------------------------------------------------------------------------------------------------------------
 ## Authors
-Eli's [GitHub](https://github.com/Eli-Code365/Eli-Code365.git)
 
-Ryan's [GitHub](https://github.com/RyanSDevelopment/CEN4010.git)
+Contributors names and contact info
+
+ex. Dominique Pizzie  
+ex. [@DomPizzie](https://twitter.com/dompizzie)
+
 
