@@ -158,7 +158,7 @@ I get along quite well with peers, specially those who share my same interests.*
 
 Eli's ![GitHub](https://github.com/Eli-Code365/Eli-Code365.git)
 
-Ryan's ![GitHub](https://github.com/RyanSDevelopment/CEN4010.git)
+Ryan's ![GitHub](https://github.com/RyanSDevelopment/About-Me.git)
 
 Giovanni's ![GitHub](https://github.com/Onav2/Principles-of-Software-Engineering-Gio.git)
 
