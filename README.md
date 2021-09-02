@@ -160,3 +160,5 @@ Eli's ![GitHub](https://github.com/Eli-Code365/Eli-Code365.git)
 
 Ryan's ![GitHub](https://github.com/RyanSDevelopment/CEN4010.git)
 
+Giovanni's ![GitHub](https://github.com/Onav2/Principles-of-Software-Engineering-Gio.git)
+
