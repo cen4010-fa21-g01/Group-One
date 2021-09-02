@@ -156,9 +156,6 @@ I get along quite well with peers, specially those who share my same interests.*
 -----------------------------------------------------------------------------------------------------------------------------
 ## Authors
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Eli's ![GitHub](https://github.com/Eli-Code365/Eli-Code365.git)
 
 
