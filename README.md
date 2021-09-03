@@ -166,22 +166,27 @@ Life-long learner, always looking to do something new and continue moving forwar
 
 ***Florida Atlantic University: Bachelor of Computer Engineering & Computer Science with a Minor in Artificial Intelligence***
 
-### Programming Languages:
+### Programming Languages & Certifications:
 ***
+Programming Languages:
 * C++
 * Python
 * HTML5/CSS
 * JavaScript
-* Java
-* C#
+
+Certifications:
+* Mission Ready Operator
+* Urban Direction Finder
 ***
 
 ### Hobbies
 ***
-* Boxing 
+* USAF
+* Brazilian Jiu-Jitsu
+* Soccer
 * Coding
 * Gaming
-* Technology
+* Reading
 ***
 
 -----------------------------------------------------------------------------------------------------------------------------
