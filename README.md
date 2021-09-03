@@ -200,6 +200,6 @@ Ryan's ![GitHub](https://github.com/RyanSDevelopment/About-Me.git)
 
 Giovanni's ![GitHub](https://github.com/Onav2/Principles-of-Software-Engineering-Gio.git)
 
-Jose S's ![GitHub](https://github.com/JGSilverio/Principle-of-SE-Group-Project.git)
+
 
 
