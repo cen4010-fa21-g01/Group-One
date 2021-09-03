@@ -1,4 +1,4 @@
-# Group-One (RawDoggers)
+# Group-One (Avengers)
 
 **Hello, We are a group of CS & CE majors hoping to create and learn the itricacies of software development from team delgataion, time management, creating a workflow, and learn anything regarding the best practicies in the industry.**
 
@@ -159,7 +159,8 @@ I get along quite well with peers, specially those who share my same interests.*
 
 ### About Me: 
 
-***Bio.***
+***I am currently completing a dual degree in Computer Engineering and Computer Science with a Minor in Artificial Intiellegience at Florida Atlantic University. I am looking forward to beginning a career in Software and Hardware development for the benefit of others and society. 
+Life-long learner, always looking to do something new and continue moving forward.***
 
 ### Education:
 
