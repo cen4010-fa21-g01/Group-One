@@ -24,6 +24,7 @@ In this milestone, you will learn:
 
 
 
+
 ### About Me: 
 
 ***My career goals and life goals are inter-sectional. I am driven by my life experiences to affect some kind of positive change in the lives of those I love. I have spent years determining the best way to go about it and believe that technology is the path. I am in awe of technology and the notion that we, as humans, can create things that surpass ourselves and our abilities. One of my primary goals is in life is to start my own tech business, one that is driven by ethics and a mission to help others.***
@@ -152,7 +153,8 @@ I get along quite well with peers, specially those who share my same interests.*
 
 **JoseAndres Hernandez-Bueso**
 
-![JoseAndres])
+![ppu](https://user-images.githubusercontent.com/83418923/131941981-7826de1d-c569-4b92-81b7-5a632bf01c57.jpg)
+
 
 
 
