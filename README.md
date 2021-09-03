@@ -154,6 +154,42 @@ I get along quite well with peers, specially those who share my same interests.*
 ***
 
 -----------------------------------------------------------------------------------------------------------------------------
+
+
+**JoseAndres Hernandez-Bueso**
+
+![JoseAndres])
+
+
+
+
+### About Me: 
+
+***Bio.***
+
+### Education:
+
+***Florida Atlantic University: Bachelor of Computer Engineering & Computer Science***
+
+### Programming Languages:
+***
+* C++
+* Python
+* HTML5/CSS
+* JavaScript
+* Java
+* C#
+***
+
+### Hobbies
+***
+* Boxing 
+* Coding
+* Gaming
+* Technology
+***
+
+-----------------------------------------------------------------------------------------------------------------------------
 ## Authors
 
 Eli's ![GitHub](https://github.com/Eli-Code365/Eli-Code365.git)
