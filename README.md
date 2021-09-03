@@ -1,4 +1,4 @@
-# Group-One (Avengers)
+# Group-One (Avalanche)
 
 **Hello, We are a group of CS & CE majors hoping to create and learn the intricacies of software development from team delegation, time management, creating a workflow, and learn anything regarding the best practices in the industry.**
 
@@ -152,7 +152,8 @@ I get along quite well with peers, specially those who share my same interests.*
 
 **JoseAndres Hernandez-Bueso**
 
-![ppu1](https://user-images.githubusercontent.com/83418923/131942216-fa87a63d-7bad-4cc0-8d01-f760379a5158.jpg)
+![JoseAndres])
+
 
 
 
