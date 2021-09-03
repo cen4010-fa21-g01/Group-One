@@ -152,8 +152,7 @@ I get along quite well with peers, specially those who share my same interests.*
 
 **JoseAndres Hernandez-Bueso**
 
-![JoseAndres])
-
+![ppu1](https://user-images.githubusercontent.com/83418923/131942946-076a1986-55ac-466c-b9ba-9948920e1d93.jpg)
 
 
 
