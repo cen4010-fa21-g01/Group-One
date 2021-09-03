@@ -1,9 +1,9 @@
-# Group-One (Avalanche)
+# Avalanche
 
 **Hello, We are a group of CS & CE majors hoping to create and learn the intricacies of software development from team delegation, time management, creating a workflow, and learn anything regarding the best practices in the industry.**
 
 
-# Project Title (Milestone 0)
+# Milestone 0
 
 This milestone helps you to be familiar with the development infrastructures that will be used in this course’s term projects. While most of the work is to be done individually, you can work together with your team to complete the task.  In fact, working together is encouraged not only for M0, but also for your teamwork.
 
