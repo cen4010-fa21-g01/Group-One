@@ -1,6 +1,6 @@
 # Group-One (Avengers)
 
-**Hello, We are a group of CS & CE majors hoping to create and learn the intricacies of software development from team delgataion, time management, creating a workflow, and learn anything regarding the best practicies in the industry.**
+**Hello, We are a group of CS & CE majors hoping to create and learn the intricacies of software development from team delegation, time management, creating a workflow, and learn anything regarding the best practices in the industry.**
 
 
 # Project Title (Milestone 0)
@@ -21,7 +21,6 @@ In this milestone, you will learn:
 **Eli Cohen**
 
 ![image](https://user-images.githubusercontent.com/84582306/131756769-59df2116-d875-4b04-a1f9-76a358785b4d.png)
-
 
 
 
@@ -153,8 +152,7 @@ I get along quite well with peers, specially those who share my same interests.*
 
 **JoseAndres Hernandez-Bueso**
 
-![ppu](https://user-images.githubusercontent.com/83418923/131941981-7826de1d-c569-4b92-81b7-5a632bf01c57.jpg)
-
+![JoseAndres])
 
 
 
