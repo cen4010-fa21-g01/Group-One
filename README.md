@@ -1,6 +1,6 @@
 # Group-One (Avengers)
 
-**Hello, We are a group of CS & CE majors hoping to create and learn the itricacies of software development from team delgataion, time management, creating a workflow, and learn anything regarding the best practicies in the industry.**
+**Hello, We are a group of CS & CE majors hoping to create and learn the intricacies of software development from team delgataion, time management, creating a workflow, and learn anything regarding the best practicies in the industry.**
 
 
 # Project Title (Milestone 0)
