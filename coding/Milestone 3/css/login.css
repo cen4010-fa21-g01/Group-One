@@ -260,14 +260,6 @@ input[type=text]:placeholder {
 } 
 
 /* Sign up page css */
-.fa-check {
-color: #fff;
-left: 17px;
-top: 18px;
-font-size: 7px;
-position: absolute;
-}
-
 .fa {
 font-size: 21px;
 text-align: center;
