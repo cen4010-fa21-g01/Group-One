@@ -94,10 +94,21 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
         </div>
 
         <!-- Login Form -->
-        <form>
-            <input type="text" id="Old Password" class="fadeIn second" name="login" placeholder="Old Password">
-            <input type="text" id="New Password" class="fadeIn third" name="login" placeholder="New Password">
-            <input type="text" id="Confirm Pasword" class="fadeIn second" name="login" placeholder="Confirm Password">
+        <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
+            <!--Old Password-->
+            <input type="password" id="Old Password" class="fadeIn second" name="login" placeholder="Old Password">
+            
+            <!--New Password -->
+            <input type="password" name="new_password" class="form-control <?php echo (!empty($new_password_err)) ? 'is-invalid' : ''; ?>" value="<?php echo $new_password; ?>"
+             placeholder="New Password">
+            <span class="invalid-feedback"><?php echo $new_password_err; ?></span>
+
+            <!--New Password-->
+            <input type="password" name="confirm_password" class="form-control <?php echo (!empty($confirm_password_err)) ? 'is-invalid' : ''; ?>"
+            class="fadeIn second" placeholder="Confirm Password">
+            <span class="invalid-feedback"><?php echo $confirm_password_err; ?></span>
+            
+            <!--Submit-->
             <br><br>
             <input type="submit" class="fadeIn fourth" value="Submit">
         </form>
