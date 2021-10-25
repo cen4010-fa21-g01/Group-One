@@ -27,33 +27,40 @@
             <p>Please fill in this form to create an account!</p>
             <hr>
 
-            <!--First name and last name input-->
             <form>
 
                 <!--First name and last name input-->
-                <i class="fa fa-user"></i>
-                <input type="text" class="form-control" class="fadeIn second" placeholder="First & Last Name"
-                    required="required">
-
+                <div>
+                    <i class="fa fa-user"></i>
+                    <input type="text" class="form-control" class="fadeIn second" placeholder="First & Last Name"
+                        required="required">
+                </div>
                 <!--Username-->
-                <br>
-                <i class="fa fa-paper-plane"></i>
-                <input type="text" class="form-control" id="username" class="fadeIn second" placeholder="Username"
-                    required="required">
-                <br>
-
+                <div>
+                    <i class="fa fa-paper-plane"></i>
+                    <input type="text" class="form-control" id="username" class="fadeIn second" placeholder="Username"
+                        required="required">
+                </div>
                 <!--Password-->
-                <i class="fa fa-lock"></i>
-                <input type="text" class="form-control" id="password" class="fadeIn second" placeholder="Password"
-                    required="required">
-                <br>
+                <div>
+                    <span>
+                        <i class="fa fa-lock"></i>
+                    </span>
+                    <input type="text" class="form-control" id="password" class="fadeIn second" placeholder="Password"
+                        required="required">
+                </div>
 
                 <!--Confirm Password-->
-                <i class="fa fa-lock"></i>
-                <i class="fa fa-check"></i>
-                <input type="text" class="form-control" id="confirmpassword" class="fadeIn second" placeholder="Confirm Password" required="required">
-                
-                <br>
+                <div>
+                    <span>
+                        <i class="fa fa-lock"></i>
+                        <i class="fa fa-check"></i>
+                    </span>
+                    <input type="text" class="form-control" id="confirmpassword" class="fadeIn second"
+                        placeholder="Confirm Password" required="required">
+                </div>
+
+                <!--Sign up-->
                 <input type="submit" class="fadeIn third" value="Sign up">
             </form>
 
