@@ -17,7 +17,7 @@ if (!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true) {
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Blog Home - Start Bootstrap Template</title>
+    <title>Sixth-Degree</title>
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
     <!-- Core theme CSS (includes Bootstrap)-->
@@ -45,7 +45,7 @@ if (!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true) {
         <div class="container">
             <div class="text-center my-5">
                 <h1 class="fw-bolder">Welcome to Sixth-Degree!</h1>
-                <p class="lead mb-0">A Bootstrap 5 starter layout for your next blog homepage</p>
+                <p class="lead mb-0">A Bootstrap 5 starter template for creating the overall look and feel for our website. We have left the basic template alone and will populate the page once we have completed our databases.</p>
             </div>
         </div>
     </header>
