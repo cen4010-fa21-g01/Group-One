@@ -134,14 +134,9 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                 <input type="submit" class="fadeIn fourth" value="Log In">
             </form>
 
-            <!-- Remind Passowrd -->
-            <div id="formFooter">
-                <a class="underlineHover" href="signup.php">Create Account</a>
-            </div>
-
             <!-- Remind Password -->
             <div id="formFooter">
-                <a class="underlineHover" href="forgotp.php">Forgot Password?</a>
+                <a class="underlineHover" href="signup.php">Create Account</a>
             </div>
 
         </div>
