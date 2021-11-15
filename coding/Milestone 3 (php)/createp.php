@@ -60,7 +60,7 @@ include "logic.php";
                         <p class="card-text">Click on the "Post!" link below to post! Here you can post your thoughts to
                             share with other users!</p>
 
-                        <a class="btn btn-primary" name="new_post" href="#createp.php">Post! →</a>
+                        <a class="btn btn-primary" name="new_post" href="createp.php">Post! →</a>
                     </div>
                 </div>
 
