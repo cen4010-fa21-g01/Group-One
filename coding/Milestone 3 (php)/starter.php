@@ -85,7 +85,7 @@ include "logic.php";
                             <div class="card-body">
                                 <h2 class="card-title h4"><?php echo $q['title'];?></h2>
                                 <p class="card-text"><?php echo substr($q['content'], 0, 50);?></p>
-                                <a class="btn btn-primary" href="#!">Read more →</a>
+                                <a class="btn btn-primary" href="view.php?id=<?php echo $q['id']?>">Read more →</a>
                             </div>
                         </div>
                     </div>
